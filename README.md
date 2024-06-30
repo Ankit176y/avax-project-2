@@ -34,7 +34,7 @@ After cloning the github, you will have to do the following to get the code runn
 
 3. In the second terminal type: npx hardhat node
 
-4. In the third terminal, type: npx hardhat run-network localhost scripts/deploy.js
+4. In the third terminal, type: npx hardhat run-network localhost scripts/deploy.js which will compile the code.
 
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
